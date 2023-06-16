@@ -13,9 +13,9 @@
     <Description>A .NET Framework library for automated posting to platforms Facebook, Twitter and LinkedIn. Supports posts with media objects.</Description>
     <PackageProjectUrl>https://github.com/circleboom/Social.NET</PackageProjectUrl>
     <RepositoryUrl>https://github.com/circleboom/Social.NET</RepositoryUrl>
-    <Version>1.2.1</Version>
-    <AssemblyVersion>1.2.1.0</AssemblyVersion>
-    <FileVersion>1.2.1.0</FileVersion>
+    <Version>1.2.2</Version>
+    <AssemblyVersion>1.2.2.0</AssemblyVersion>
+    <FileVersion>1.2.2.0</FileVersion>
     <PackageReleaseNotes>Nuget config update</PackageReleaseNotes>
     <PackageTags>social sharing, twitter, facebook, linkedin, oauth</PackageTags>
     <RepositoryType>git</RepositoryType>
